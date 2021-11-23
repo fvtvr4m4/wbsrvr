@@ -1,6 +1,5 @@
 //
 // server.h
-// created by Marilia Sampaio on 11/22/21
 //
 
 #ifndef server_h
