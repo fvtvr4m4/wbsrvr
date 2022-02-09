@@ -1,4 +1,4 @@
-somewhat oop way of creating a webserver
+
 more of a poc for now
 goal is to write a web server from scratch in c limiting the use of external libraries (exceptions for stdio and stdlib)
 current version v0 uses external libs
